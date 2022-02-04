@@ -6,8 +6,9 @@
 }
 .header-box{
 	background-color: white;
-	position: relative;
-	top: -22%;
+	position: absolute;
+	bottom: 0;
+  right: 0;
 	padding: 2rem;
 	width: 50%;
 	z-index: 1;
